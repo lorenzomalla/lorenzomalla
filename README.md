@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorenzomalla
 - 👀 I’m interested in Java, Spring Boot, Flutter, Ionic 3/4
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning React Native.
 - 📫 How to reach me lorenzomalla2@gmail.com
 
 <!---
